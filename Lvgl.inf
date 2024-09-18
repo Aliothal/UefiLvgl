@@ -11,8 +11,8 @@
   uefiport/lv_port_disp.c
   uefiport/lv_port_indev.c
   uefiport/normal.c
-  # tools/NetAssist.c
-  tools/HexEdit.c
+  tools/NetAssist.c
+  # tools/HexEdit.c
 
   src/lv_init.c
   src/core/lv_group.c
